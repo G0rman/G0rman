@@ -15,6 +15,7 @@ ____________________________________________________
 ## Follow  Me:
 [![Instagram](https://img.shields.io/badge/-Instagram-020503?style=for-the-badge&logo=Instagram&logoColor=FF483B)](https://www.instagram.com/daniil_rozhdestvenskiy._/) 
 [![Facebook](https://img.shields.io/badge/-Facebook-020503?style=for-the-badge&logo=Facebook&logoColor=407DB3)](https://www.facebook.com/profile.php?id=100075687878400) 
+[![Twitter](https://img.shields.io/badge/-Twitter-020503?style=for-the-badge&logo=Twitter&logoColor=407DB3)](https://twitter.com/R_Daniil_) 
 
 
 

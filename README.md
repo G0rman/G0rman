@@ -8,8 +8,9 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-020503?style=for-the-badge&logo=Typescript&logoColor=FFF44B)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-020503?style=for-the-badge&logo=Javascript&logoColor=9FFF1D)
 ![NestJS](https://img.shields.io/badge/-NestJS-020503?style=for-the-badge&logo=NestJS&logoColor=FF483B)
-![Python](https://img.shields.io/badge/-Python-020503?style=for-the-badge&logo=Python&logoColor=407DB3)
-![Sql](https://img.shields.io/badge/-Sql-020503?style=for-the-badge&logo=mySql&logoColor=F5F8F7)   
+![Sql](https://img.shields.io/badge/-Sql-020503?style=for-the-badge&logo=mySql&logoColor=F5F8F7)
+![NodeJS](https://img.shields.io/badge/-NodeJS-020503?style=for-the-badge&logo=Node.JS&logoColor=F5F8F7)  
+
 
 ____________________________________________________
 ## Follow  Me:
